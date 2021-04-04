@@ -1,2 +1,3 @@
-# Simon_game
-Android application to implement Simon Game
+# Simon Game
+
+#### Android application to implement Simon Game
